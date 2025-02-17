@@ -8,7 +8,7 @@ class Program
     {
         // My exceeding requirement
         Console.WriteLine("Welcome to goal creator");
-        Console.WriteLine("Description: We will help create a goal, record event, show your goal and save it.");
+        Console.WriteLine("Description: We will help create a goal, record event, show your goal and save it");
         GoalManager tracker = new GoalManager();
         while (true)
         {
